@@ -1,3 +1,3 @@
 # ctf-writeups-1
 
-Writeups which I havve used computational linuistics with the help of deepl and googling to perfectionize. 
+Writeups which I havve used computational linguistics with the help of deepl and googling to perfectionize. 
